@@ -471,6 +471,6 @@ The command line is a fundamental skill for system administration, penetration t
 ---
 
 **Room Completed:** ✓  
-**Date:** [Your completion date]  
+**Date:** 02/11/2026  
 **Author:** waltzey  
 **GitHub:** https://github.com/waltzey/tryhackme-writeups
