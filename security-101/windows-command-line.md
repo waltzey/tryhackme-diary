@@ -314,6 +314,9 @@ Deletes all files with .log extension.
 
 **Security Consideration:** Always verify wildcard commands before execution, especially with delete operations, to avoid unintended data loss.
 
+Through browsing and viewing file with dir and type commands we got the flag for this specific task
+<img width="725" height="490" alt="image" src="https://github.com/user-attachments/assets/2c52cc97-a9c2-4113-9418-5c7d4ccc6ed4" />
+
 ---
 
 ## Task 5: Task and Process Management
@@ -370,6 +373,9 @@ taskkill /F /PID 4567
 1. Document the PID and image name before termination
 2. Preserve evidence when possible
 3. Understand that some malware may respawn if parent processes remain active
+
+
+<img width="1752" height="657" alt="image" src="https://github.com/user-attachments/assets/303cca38-6fa3-4bb8-b1c2-f7617f5acbbf" />
 
 ---
 
@@ -476,6 +482,7 @@ With a solid foundation in Windows Command Line:
 The command line is a fundamental skill for system administration, penetration testing, and incident response. Regular practice with these commands builds muscle memory and increases efficiency in real-world security operations.
 
 ---
+<img width="789" height="627" alt="image" src="https://github.com/user-attachments/assets/6489b10a-bee5-447f-98a2-3c7f8fe2c082" />
 
 **Room Completed:** ✓  
 **Date:** 02/11/2026  
