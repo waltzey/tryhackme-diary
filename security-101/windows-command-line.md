@@ -482,7 +482,10 @@ With a solid foundation in Windows Command Line:
 The command line is a fundamental skill for system administration, penetration testing, and incident response. Regular practice with these commands builds muscle memory and increases efficiency in real-world security operations.
 
 ---
-<img width="789" height="627" alt="image" src="https://github.com/user-attachments/assets/6489b10a-bee5-447f-98a2-3c7f8fe2c082" />
+
+
+<img width="1085" height="743" alt="image" src="https://github.com/user-attachments/assets/1a988a55-d555-4c4f-989b-5cbeaf997c2b" />
+
 
 **Room Completed:** ✓  
 **Date:** 02/11/2026  
