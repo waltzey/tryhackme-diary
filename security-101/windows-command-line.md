@@ -100,6 +100,9 @@ The `more` command displays output page by page. Press `Space` to advance one pa
 - `cls` - Clears the Command Prompt screen
 - `command /?` - Displays help page for most commands
 
+Getting the OS version & hostname through systeminfo while ssh:
+<img width="734" height="484" alt="image" src="https://github.com/user-attachments/assets/d8a10bc8-992b-43b5-9cea-36e342d971d7" />
+
 ---
 
 ## Task 3: Network Troubleshooting
@@ -193,6 +196,10 @@ TCP    10.10.230.237:22       10.11.81.126:53486     ESTABLISHED     2116
 - Unexpected listening ports
 - Connections to suspicious IP addresses
 - Unknown processes with network activity
+
+
+Using netstat -abon to find services under X ports:
+<img width="736" height="485" alt="image" src="https://github.com/user-attachments/assets/19c4e2e2-f81e-465e-88fc-4d7ccff51217" />
 
 ---
 
