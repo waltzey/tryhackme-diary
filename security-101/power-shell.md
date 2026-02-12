@@ -514,6 +514,9 @@ Start-Service -Name "ServiceName"
 Restart-Service -Name "ServiceName"
 ```
 
+Got the following flag through get content 
+<img width="714" height="709" alt="image" src="https://github.com/user-attachments/assets/ddf7119b-52cb-44a3-b6ad-345720a4cf4e" />
+
 ### Network Connection Monitoring
 
 **View active TCP connections:**
@@ -588,11 +591,11 @@ Get-Content -Path ".\file.txt" -Stream "StreamName"
 
 ### Practical Applications
 
-**Question:** Other than your current user and the default "Administrator" account, what other user is enabled on the target machine?  
-*Navigate through local users to find enabled accounts.*
 
-**Question:** What property retrieved by default by Get-NetTCPConnection contains information about the process that has started the connection?  
-**Answer:** `OwningProcess`
+I was presented with the following prompt: 
+It's time for another small challenge. Some vital service has been installed on this pirate ship to guarantee that the captain can always navigate safely. But something isn't working as expected, and the captain wonders why. Investigating, they find out the truth, at last: the service has been tampered with! The shady lad from before has modified the service DisplayName to reflect his very own motto, the same that he put in his user description.
+<img width="896" height="766" alt="image" src="https://github.com/user-attachments/assets/237250f8-ff7d-4280-b2d4-ef70ad4d849a" />
+p1r4t3-s-compass
 
 ---
 
@@ -773,6 +776,7 @@ Continue building command-line proficiency:
 PowerShell is an essential skill for modern IT professionals, system administrators, and security practitioners. Its deep Windows integration, cross-platform support, and object-oriented design make it indispensable for automation, security operations, and system management.
 
 ---
+<img width="1171" height="756" alt="image" src="https://github.com/user-attachments/assets/f4a54242-8d33-4a4d-9a3f-1ecb514ca589" />
 
 **Room Completed:** ✓  
 **Date:** February 11, 2026  
