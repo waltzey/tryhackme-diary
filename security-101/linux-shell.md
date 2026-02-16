@@ -271,6 +271,8 @@ else
 fi
 ```
 
+<img width="504" height="269" alt="image" src="https://github.com/user-attachments/assets/4e4f3d53-3aef-481a-8fd0-b174ebba64da" />
+
 Comments start with `#` and are ignored during script execution. They improve code readability without affecting functionality.
 
 **Question:** What is the shebang used in a Bash script?  
