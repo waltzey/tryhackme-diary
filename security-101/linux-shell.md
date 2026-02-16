@@ -370,6 +370,9 @@ sudo su
 ./script_name.sh
 ```
 
+<img width="318" height="127" alt="image" src="https://github.com/user-attachments/assets/9e2e83ae-6450-4e7e-9ccf-5b0d668e42c1" />
+
+
 **Question:** Which file has the keyword?  
 **Answer:** `[Execute script to reveal]`
 
@@ -465,8 +468,9 @@ With a solid foundation in Linux shells and scripting:
 The shell is a fundamental skill for system administration, penetration testing, and incident response. Regular practice with these commands and scripting techniques builds efficiency in real-world security operations.
 
 ---
+<img width="880" height="634" alt="image" src="https://github.com/user-attachments/assets/e2bd75ee-28f7-4329-9337-5ce6ba5da82b" />
 
 **Room Completed:** ✓  
-**Date:** 02/12/2026  
+**Date:** 02/16/2026  
 **Author:** waltzey  
 **GitHub:** https://github.com/waltzey/tryhackme-writeups
