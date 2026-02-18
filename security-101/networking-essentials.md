@@ -498,8 +498,9 @@ With networking essentials mastered:
 These protocols form the invisible infrastructure that makes modern networking possible. Understanding them is essential for network administration, troubleshooting, and cybersecurity work.
 
 ---
+<img width="827" height="493" alt="image" src="https://github.com/user-attachments/assets/98642bd9-be01-407c-9d14-7f17311294ca" />
 
 **Room Completed:** ✓  
-**Date:** 02/12/2026  
+**Date:** 02/18/2026  
 **Author:** waltzey  
 **GitHub:** https://github.com/waltzey/tryhackme-writeups
