@@ -240,6 +240,9 @@ GET /file.html HTTP/1.1
 Host: anything
 [Press Enter twice]
 ```
+<img width="1145" height="770" alt="image" src="https://github.com/user-attachments/assets/2346e621-d2c6-459a-aeee-4e3f58b87dc0" />
+
+<img width="1038" height="779" alt="image" src="https://github.com/user-attachments/assets/1a1da68f-6c1e-4e7c-a852-3964311cd486" />
 
 **Question:** Use telnet to access the file flag.html on MACHINE_IP. What is the hidden flag?  
 **Answer:** `[Connect via telnet and retrieve flag.html]`
@@ -331,6 +334,9 @@ ftp> quit
 Many FTP servers allow anonymous access:
 - Username: `anonymous`
 - Password: (often blank or your email)
+
+
+<img width="1204" height="841" alt="image" src="https://github.com/user-attachments/assets/7ef5a724-e730-4f6b-bf1d-b4fe706e26c9" />
 
 **Question:** Using the FTP client ftp on the AttackBox, access the FTP server at MACHINE_IP and retrieve flag.txt. What is the flag found?  
 **Answer:** `[Connect via FTP and download flag.txt]`
@@ -522,6 +528,7 @@ QUIT
 
 - **Username:** linda
 - **Password:** Pa$$123
+<img width="1131" height="789" alt="image" src="https://github.com/user-attachments/assets/37a7d1c0-426c-4528-babc-4573bace4cf0" />
 
 **Question:** Looking at the traffic exchange, what is the name of the POP3 server running on the remote server?  
 **Answer:** `[Connect and check server banner - should show software name like Dovecot]`
@@ -793,8 +800,9 @@ Understanding these protocols is crucial for:
 - Penetration testing and reconnaissance
 
 ---
+<img width="891" height="479" alt="image" src="https://github.com/user-attachments/assets/9ca695e6-7f72-4ac8-a78e-b8c58e0311cc" />
 
 **Room Completed:** ✓  
-**Date:** 02/14/2026  
+**Date:** 02/18/2026  
 **Author:** waltzey  
 **GitHub:** https://github.com/waltzey/tryhackme-writeups
