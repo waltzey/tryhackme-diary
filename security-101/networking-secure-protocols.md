@@ -400,6 +400,7 @@ sftp> exit                  # Quit SFTP
 - TLS certificate available
 - FTP-specific features needed
 - Legacy system compatibility required
+<img width="1217" height="1305" alt="image" src="https://github.com/user-attachments/assets/3a9b2789-2460-4882-9565-46b74a40ab26" />
 
 **Question:** Click on the View Site button to access the related site. Follow the instructions to obtain the flag.  
 **Answer:** `[Access site and complete challenge]`
@@ -647,6 +648,7 @@ tcpdump -i eth0 -w capture.pcap
 # (Pre)-Master-Secret log filename: /path/to/ssl-key.log
 ```
 
+
 ---
 
 ## Command Reference
@@ -691,8 +693,9 @@ Understanding these security protocols is essential for:
 - Penetration testing and security auditing
 
 ---
+<img width="951" height="542" alt="image" src="https://github.com/user-attachments/assets/8abe16e3-dd6c-4daf-844d-af848a4ad01b" />
 
 **Room Completed:** ✓  
-**Date:** 02/14/2026  
+**Date:** 02/18/2026  
 **Author:** waltzey  
 **GitHub:** https://github.com/waltzey/tryhackme-writeups
