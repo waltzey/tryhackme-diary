@@ -381,6 +381,9 @@ Host: telnet.thm
 ```
 - Manually craft HTTP request
 - Server responds with HTTP headers and HTML content
+- 
+<img width="578" height="410" alt="image" src="https://github.com/user-attachments/assets/08b4f250-4831-4dc6-8696-5b4d8b232f4a" />
+
 
 ### Security Note
 
@@ -492,8 +495,9 @@ With foundational networking concepts mastered:
 Understanding these fundamentals is crucial for cybersecurity work - network traffic analysis, penetration testing, and incident response all require solid networking knowledge.
 
 ---
+<img width="869" height="580" alt="image" src="https://github.com/user-attachments/assets/09e3fa5f-db2d-4f18-bd12-83a457eefe12" />
 
 **Room Completed:** ✓  
-**Date:** 02/12/2026  
+**Date:** 02/18/2026  
 **Author:** waltzey  
 **GitHub:** https://github.com/waltzey/tryhackme-writeups
