@@ -532,6 +532,8 @@ Wireshark's built-in anomaly detection:
 
 **Important:** Expert info provides suggestions, not definitive conclusions. False positives/negatives are possible.
 
+<img width="1017" height="877" alt="image" src="https://github.com/user-attachments/assets/90ba84f0-ade6-4025-9d95-54dd90eea4aa" />
+
 **Question:** Use the "Exercise.pcapng" file. Search the "r4w" string in packet details. What is the name of artist 1?  
 **Answer:** `[Edit → Find Packet → String → "r4w" → Search in Packet Details]`
 
