@@ -776,8 +776,9 @@ With tcpdump basics mastered:
 Tcpdump is an essential tool for network administrators, security analysts, and anyone who needs to understand network behavior at a deep level.
 
 ---
+<img width="898" height="503" alt="image" src="https://github.com/user-attachments/assets/c5376d8f-6e11-4d98-8f1c-e23b7a9c4c67" />
 
 **Room Completed:** ✓  
-**Date:** 02/14/2026  
+**Date:** 02/20/2026  
 **Author:** waltzey  
 **GitHub:** https://github.com/waltzey/tryhackme-writeups
