@@ -709,6 +709,9 @@ http.request.uri contains "login"
 dns.qry.name contains "malware"
 ```
 
+<img width="1528" height="839" alt="image" src="https://github.com/user-attachments/assets/ccba9f12-2c18-452a-8a36-125cd29612e1" />
+
+
 **Question:** Use the "Exercise.pcapng" file. Go to packet number 4. Right-click on the "Hypertext Transfer Protocol" and apply it as a filter. What is the filter query?  
 **Answer:** `http`
 
@@ -850,8 +853,9 @@ With Wireshark basics mastered:
 Wireshark is an essential tool for any network analyst, security professional, or systems administrator. The skills learned here form the foundation for advanced network forensics and security analysis.
 
 ---
+<img width="1909" height="1152" alt="image" src="https://github.com/user-attachments/assets/d5f3333b-b66c-4981-b2da-042f3237d097" />
 
 **Room Completed:** ✓  
-**Date:** 02/14/2026  
+**Date:** 02/20/2026  
 **Author:** waltzey  
 **GitHub:** https://github.com/waltzey/tryhackme-writeups
