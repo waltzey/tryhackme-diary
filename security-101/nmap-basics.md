@@ -495,6 +495,8 @@ nmap -Pn 192.168.1.100
 | `-A` | Aggressive (all features) | Yes |
 | `-Pn` | Skip ping, assume online | No |
 
+<img width="1222" height="1365" alt="image" src="https://github.com/user-attachments/assets/e2c340e4-5238-4273-9699-663efd66e2bf" />
+
 ### Practical Examples
 
 **Quick version check:**
