@@ -1036,8 +1036,9 @@ sudo nmap -A -T4 target.com -oX vuln-check.xml
 **Answer:** `TCP connect scan` (or `-sT`)
 
 ---
+<img width="846" height="505" alt="image" src="https://github.com/user-attachments/assets/8807822f-afa7-49be-8371-905185c7911c" />
 
 **Room Completed:** ✓  
-**Date:** 02/20/2026  
+**Date:** 02/23/2026  
 **Author:** waltzey  
 **GitHub:** https://github.com/waltzey/tryhackme-writeups
