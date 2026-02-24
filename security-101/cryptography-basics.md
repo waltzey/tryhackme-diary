@@ -883,8 +883,9 @@ print(x)
 - Regular security audits
 
 ---
+<img width="853" height="474" alt="image" src="https://github.com/user-attachments/assets/a9939903-450e-4f25-a01b-6f981ed0ee55" />
 
 **Room Completed:** ✓  
-**Date:** 02/20/2026  
+**Date:** 02/24/2026  
 **Author:** waltzey  
 **GitHub:** https://github.com/waltzey/tryhackme-writeups
